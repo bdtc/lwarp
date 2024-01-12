@@ -9,5 +9,7 @@ Math may be represented by MathJax, with equation numbers matching the print doc
 
 Includes a quick-start tutorial, an extensive manual, a large troubleshooting index, built-in diagnostics, and error messages with helpful advice.
 
+**Be sure to check the _Discussions_ tab above!**
+
 The code and manual are at CTAN:
 https://ctan.org/pkg/lwarp
